@@ -28,7 +28,6 @@ I am a Computer Science student passionate about cybersecurity. I am a Red Team 
 
 <a href="http://www.github.com/ranjithashok003"><img src="https://github-readme-stats.vercel.app/api?username=ranjithashok003&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="ranjithashok003's GitHub stats" /></a>
 
-<a href="https://github.com/ranjithashok003" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranjithashok003&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 <!--
 **ranjithashok003/ranjithashok003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
