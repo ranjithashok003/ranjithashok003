@@ -6,8 +6,8 @@ Cyber Security Enthusiast
 
 I am a Computer Science student passionate about cybersecurity. I am a Red Team enthusiast specializing in network and web application security. Open to new learning opportunities.
 
-* ✉️  You can contact me at [ranjithashok003@gmail.com](mailto:ranjithashok003@gmail.com)
-* 🧠  I'm learning about APIs and its related vulnerabilities
+* 🤙  You can contact me at [ranjithashok003@gmail.com](mailto:ranjithashok003@gmail.com)
+* 🧠  I'm currently learning about APIs and its related vulnerabilities
 
 ### Skills
 
