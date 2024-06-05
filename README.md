@@ -4,7 +4,7 @@ Hey ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-91
 Cyber Security Enthusiast 
 -------------------------
 
-I am a Computer Science student passionate about cybersecurity. I am a Red Team enthusiast specializing in network and web application security. Open to new learning opportunities.
+I am a Computer Science student passionate about cybersecurity. I am a Red Team enthusiast specializing in network,web and mobile application security. Open to new learning opportunities.
 
 * 🤙  You can contact me at [ranjithashok003@gmail.com](mailto:ranjithashok003@gmail.com)
 * 🧠  I'm currently learning about APIs and its related vulnerabilities
